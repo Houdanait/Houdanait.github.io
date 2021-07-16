@@ -11,8 +11,8 @@ redirect_from:
   <img src="/images/africa_image.jpg" height = "200" width="400"/>
 </p>
 
-<font size="1"> 
-I am a Predoctoral Research Fellow at the Stanford Institute of Economic Policy Research working with Professor Matthew Gentzkow.    <br />
+
+<font size="1">I am a Predoctoral Research Fellow at the Stanford Institute of Economic Policy Research working with Professor Matthew Gentzkow.    <br />
 Prior to that, I was a trader in the Emerging Markets Debt desk at JP Morgan London.  <br /> 
 I hold a BSc. in Economics from University College London.  <br /> 
 
@@ -23,4 +23,4 @@ I am also interested in studying the behavior of agents within complex systems f
 I am a contributor to the [Core-Econ Project](https://www.core-econ.org/).   <br />
 
 
-You can contact me at hnait at stanford dot edu. 
+You can contact me at hnait at stanford dot edu.</font>  
