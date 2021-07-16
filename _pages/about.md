@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/africa_image.jpg" alt="" width="450"/>
+  <img src="/images/africa_image.jpg" height = "200" width="400"/>
 </p>
 
 
