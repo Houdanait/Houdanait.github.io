@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/africa_image.jpg" alt="" width="700"/>
+
+<p align="center">
+  <img src="/images/africa_image.jpg" alt="" width="800"/>
+</p>
+
 
 I am a Predoctoral Research Fellow at the Stanford Institute of Economic Policy Research working with Professor Matthew Gentzkow.    <br />
 Prior to that, I was a trader in the Emerging Markets Debt desk at JP Morgan London. I hold a BSc. in Economics from University College London.  <br /> 
