@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Houda Nait El Barj"
-  avatar           : "profile_pic.jpg"
+  avatar           : "profile_pic.jpeg"
   bio              : "Predoctoral fellow at the Stanford Institute of Economic Policy Research"
   location         : "Stanford, CA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/houda-nait-el-barj-09286b116/"
+  linkedin         : "houda-nait-el-barj-09286b116"
   orcid            : 
   pinterest        :
   soundcloud       :
