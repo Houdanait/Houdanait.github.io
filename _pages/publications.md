@@ -5,12 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**"Utilitarian beliefs in social networks: Explaining the
+emergence of hatred (Work in progress)"**
 
-{% include base_path %}
+[Download paper here](http://Houdanait.github.io/files/paper_hatred.pdf) 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**"The partisan effect hypothesis and efficient crime policy"**
+
+[Download paper here](http://Houdanait.github.io/files/paper_crime.pdf) 
