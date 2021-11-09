@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my resume [here]("https://Houdanait.github.io/files/Houda_CV.pdf")
+You can find my resume [here](http://Houdanait.github.io/files/Houda_CV.pdf).
