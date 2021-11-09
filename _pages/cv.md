@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV here.
+You can find my resume <a href="https://Houdanait.github.io/files/Houda_CV.pdf", target="_blank">here</a>.
