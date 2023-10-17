@@ -16,11 +16,9 @@ redirect_from:
 </p>
 
 
-I am a Predoctoral Research Fellow at the Stanford Institute of Economic Policy Research working with Professor Matthew Gentzkow. Prior to that, I was a trader in the Emerging Markets fixed-income desk at JP Morgan in London.
-I hold a Bsc in Economics from University College London.<br /> 
+I am an Economics PhD student at Stanford with a minor in Computer Science. Prior to that, I was a research analyst at the Stanford Institute of Economic Policy Research, under the supervision of Matthew Gentzkow. I hold a Bsc in Economics from University College London.<br /> 
 
-I am interested in studying the behavior of small entities and their dynamics within large complex systems.
-My research interests lie in financial markets, debt sustainability, environmental economics, social networks and human capital theory. <br />
+I am interested in labour economics, behavioural economics and child cognitive development. I am also interested about AI alignment and how deployment of AI technologies will affect our economies. <br />
 
 I am a contributor to the [Core-Econ Project](https://www.core-econ.org/). <br />
 
