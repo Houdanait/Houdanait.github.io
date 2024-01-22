@@ -20,6 +20,6 @@ Hello! I am an Economics PhD student at Stanford with a minor in Computer Scienc
 
 I deeply believe that we can create a better world through guided technological progress and informed mechanism design. I love to interpret the world using econometrics and Bayesian statistics. 
 
-My research interests are labour economics, causal inference, experimental design, economic inequality, behavioural economics and economic inequality. I am also interested in AI alignment and how the deployment of AI technologies will affect our economies. <br />
+My research interests are labour economics, causal inference, experimental design, behavioural economics and economic inequality. I am also interested in AI alignment and how the deployment of AI technologies will affect our economies. <br />
 
 You can contact me at hnait at stanford dot edu.
