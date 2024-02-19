@@ -20,6 +20,7 @@ Hello! I am an Economics PhD student at Stanford with a minor in Computer Scienc
 
 I believe that we can create a better world through guided technological progress and informed mechanism design. I also love to interpret the world using econometrics and Bayesian statistics. 
 
-I conduct research in labour economics, causal inference,  AI alignment, experimental design, behavioural economics and economic inequality. I am a member of the Stanford AI Alignment society, and as such, I also conduct research on AI safety to ensure the development of advanced AI will be safe and beneficial for all. 
+I conduct research in labour economics, causal inference,  AI alignment, experimental design, behavioural economics and economic inequality. 
+I am a member of the Stanford AI Alignment group, and as such, I also conduct research on AI safety to ensure the development of advanced AI will be safe and beneficial for all. 
 
 You can contact me at hnait at stanford dot edu.
