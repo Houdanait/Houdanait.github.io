@@ -18,8 +18,8 @@ redirect_from:
 
 Hello! I am an Economics PhD student at Stanford with a minor in Computer Science. Prior to that, I was a research analyst at the Stanford Institute of Economic Policy Research, under the supervision of Matthew Gentzkow. I hold a BSc in Economics from University College London.<br /> 
 
-I deeply believe that we can create a better world through guided technological progress and informed mechanism design. I love to interpret the world using econometrics and Bayesian statistics. 
+I believe that we can create a better world through guided technological progress and informed mechanism design. I also love to interpret the world using econometrics and Bayesian statistics. 
 
-My research interests are labour economics, causal inference, experimental design, behavioural economics and economic inequality. I am also interested in AI alignment and how the deployment of AI technologies will affect our economies. <br />
+I conduct research in labour economics, causal inference,  AI alignment, experimental design, behavioural economics and economic inequality. I am a member of the Stanford AI Alignment society, and as such, I also conduct research on AI safety to ensure the development of advanced AI will be safe and beneficial for all. 
 
 You can contact me at hnait at stanford dot edu.
