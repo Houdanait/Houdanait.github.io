@@ -18,7 +18,7 @@ redirect_from:
 
 Hello!
 
-I am a second year Economics PhD at Stanford, with a minor in Computer Science.  I deeply believe that we can create a better world through guided technological progress and informed mechanism design. I thus conduct research in labor economics, and economic inequality. One of my main focus is the impact that AI technologies will have on the labor market, structural organization of society, political outcomes and human interactions. 
+I am a second year Economics PhD student at Stanford, with a minor in Computer Science.  I deeply believe that we can create a better world through guided technological progress and informed mechanism design. I thus conduct research in labor economics, and economic inequality. One of my main focus is the impact that AI technologies will have on the labor market, structural organization of society, political outcomes and human interactions. 
 
 One thing to know about me is that I love to interpret the world using econometrics and Bayesian statistics. Thus, causal inference and proper experimental design are at the heart of my research.  I am a recipient of the Stanford EDGE fellowship and also received a special scholarship from the King Mohamed of Morocco for Bright Academic Research.  
 
