@@ -16,11 +16,18 @@ redirect_from:
 </p>
 
 
-Hello! I am an Economics PhD student at Stanford with a minor in Computer Science. Prior to that, I was a research analyst at the Stanford Institute of Economic Policy Research, under the supervision of Matthew Gentzkow. I hold a BSc in Economics from University College London.<br /> 
+Hello!
 
-I believe that we can create a better world through guided technological progress and informed mechanism design. I also love to interpret the world using econometrics and Bayesian statistics. 
+I am a second year Economics PhD at Stanford, with a minor in Computer Science.  I deeply believe that we can create a better world through guided technological progress and informed mechanism design. I thus conduct research in labor economics, and economic inequality. One of my main focus is the impact that AI technologies will have on the labor market, structural organization of society, political outcomes and human interactions. 
 
-I conduct research in labour economics, causal inference,  AI alignment, experimental design, behavioural economics and economic inequality. 
-I am a member of the Stanford AI Alignment group, and as such, I also conduct research on AI safety to ensure the development of advanced AI will be safe and beneficial for all. 
+One thing to know about me is that I love to interpret the world using econometrics and Bayesian statistics. Thus, causal inference and proper experimental design are at the heart of my research.  I am a recipient of the Stanford EDGE fellowship and also received a special scholarship from the King Mohamed of Morocco for Bright Academic Research.  
 
-You can contact me at hnait at stanford dot edu.
+I am a member of the Stanford AI Alignment group where I conduct research in AI safety, to ensure the development of advanced AI will be safe and beneficial for all. My projects include providing new scalable solutions to tackle goal misgeneralization, as well as designing new evaluation methods for detecting deceptive capabilities in LLM. 
+
+One of my goals is to ensure that research findings are translated into actionable policy strategies. I thus engage regularly with policy stakeholders in AI. I am a Paragon AI Policy fellow, and work with the state of California to inform and implement a new policy plan for Deepfake enforcement. 
+
+Before joining Stanford, I was a research fellow at the Stanford Institute of Economic Policy Research, where I managed multiple research projects relating to the societal impact of social media, under the supervision of Matthew Gentzkow. I also worked as a cross-assets analyst at JP Morgan, where I conducted macroeconomic research across various emerging markets, designed investment strategies and developed predictive models. 
+
+I'm passionate about applying my skills in experimental design and behavioral economics to explore how technology and economic mechanisms can drive positive global change. I funded [kara.co](http://kara.co/), a platform for charity donations, and also regularly implement programs with UNHCR. You can learn more about these personal projects on my website. 
+
+
