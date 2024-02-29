@@ -26,8 +26,8 @@ I am a member of the Stanford AI Alignment group where I conduct research in AI 
 
 One of my goals is to ensure that research findings are translated into actionable policy strategies. I thus engage regularly with policy stakeholders in AI. I am a Paragon AI Policy fellow, and work with the state of California to inform and implement a new policy plan for Deepfake enforcement. 
 
-Before joining Stanford, I was a research fellow at the Stanford Institute of Economic Policy Research, where I managed multiple research projects relating to the societal impact of social media, under the supervision of Matthew Gentzkow. I also worked as a cross-assets analyst at JP Morgan, where I conducted macroeconomic research across various emerging markets, designed investment strategies and developed predictive models. 
+Before joining Stanford, I was a research fellow at the Stanford Institute of Economic Policy Research, where I managed multiple research projects relating to the societal impact of social media, under the supervision of Matthew Gentzkow. I also previously worked as a cross-assets analyst at JP Morgan, where I conducted macroeconomic research across various emerging markets, designed investment strategies and developed predictive models. 
 
 I'm passionate about applying my skills in experimental design and behavioral economics to explore how technology and economic mechanisms can drive positive global change. I funded [kara.co](http://kara.co/), a platform for charity donations, and also regularly implement programs with UNHCR. You can learn more about these personal projects on my website. 
 
-
+On a personal note, I am [Berber](https://en.wikipedia.org/wiki/Berbers), originally from Morocco. I speak 6 languages, and I love Russian literature. 
