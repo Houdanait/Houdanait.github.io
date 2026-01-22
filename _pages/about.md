@@ -16,10 +16,7 @@ redirect_from:
 </p>
 
 
-Hello! I am an Economics PhD student at Stanford with a minor in Computer Science. Prior to that, I was a research analyst at the Stanford Institute of Economic Policy Research, under the supervision of Matthew Gentzkow. I hold a BSc in Economics from University College London.<br /> 
+Houda Nait El Barj leads experience research on emerging AI systems at OpenAI. Her work sits at the intersection of AI research, human experience, and design, with a focus on how intelligent systems can support long-term human flourishing and fit meaningfully into everyday life.
+<br />
+Houda previously pursued a PhD at Stanford University, with a joint affiliation in Computer Science and Statistics.
 
-I deeply believe that we can create a better world through guided technological progress and informed mechanism design. I love to interpret the world using econometrics and Bayesian statistics. 
-
-My research interests are labour economics, causal inference, experimental design, economic inequality, behavioural economics and economic inequality. I am also interested in AI alignment and how the deployment of AI technologies will affect our economies. <br />
-
-You can contact me at hnait at stanford dot edu.
